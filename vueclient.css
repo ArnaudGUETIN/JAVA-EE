@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+input{
+	border-radius: 3px 3px 3px 3px;
+	border-width: 1px;
+	
+	
+	
+}
+td,th{
+	
+	border-radius: 3px 3px 3px 3px;
+	text-align: center;
+}
